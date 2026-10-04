@@ -1,0 +1,11 @@
+Edit:
+Created and updated README.md with the project documentation.
+
+Add:
+git add README.md git_workflow.txt
+
+Commit:
+git commit -m "Updated README.md"
+
+Push:
+git push -u origin main
