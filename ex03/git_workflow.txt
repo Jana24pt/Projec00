@@ -1,5 +1,5 @@
 Edit:
-Created and updated README.md with the project documentation.
+Created and updated  the project 
 
 Add:
 git add README.md git_workflow.txt
